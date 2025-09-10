@@ -12,3 +12,6 @@ Added proxy for better visibility/logging.
     - `-d`: A delay between attempts to evade rate-limit-based detection.
     - `-t`: The number of concurrent threads to speed up the process.
     - `--user-agent`: Spoof user agent (optional)
+
+## Other tools
+- https://github.com/PortSwigger/ntlm-challenge-decoder
